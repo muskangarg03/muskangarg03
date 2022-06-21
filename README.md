@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muskan Garg.
-- 👀 I’m interested in learning programming languages.
+- 👀 I’m interested in learning programming languages and web developement.
 - 🌱 I’m currently pursuing B.Tech (Hons.) course in computer science and engineering from GLA University.
 - 💞️ I’m looking to collaborate on the projects where I can implement my skills and knowledge that I acquired.
 
