@@ -2,6 +2,11 @@
 <h3 align="center">A passionate frontend developer from India. I’m currently pursuing B.Tech (Hons.) course in computer science and engineering from GLA University. I’m interested in learning programming languages and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskangarg03&label=Profile%20views&color=0e75b6&style=flat" alt="muskangarg03" /> </p>
+<p align="center">
+<a href="https://github.com/muskangarg03/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=muskangarg03&theme=one-dark&area=true&hide_border=true"  width="100%">
+</a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskangarg03" alt="muskangarg03" /></a> </p>
 
